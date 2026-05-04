@@ -9,6 +9,9 @@ Both receiving (listening) as well as transceiving (broadcasting/talking) on any
 ## PMR446 EU
 
 Private Mobile Radio on 446 MHz. Can be used without license in most European countries for personal and business use but only with radios specifically for PMR446.
+
 Use of 67.0 Hz or other CTCSS subtone is common in pre-programmed radios.
+
 Channel 8 is used as Calling Channel.
+
 Source: Wikipedia, Finlex
