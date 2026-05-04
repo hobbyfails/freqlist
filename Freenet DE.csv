@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,FRNET 01,149.025000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,Calling Channel,,,,
+2,FRNET 02,149.037500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,,,,,
+3,FRNET 03,149.050000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,,,,,
+4,FRNET 04,149.087500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,,,,,
+5,FRNET 05,149.100000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,,,,,
+6,FRNET 06,149.112500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.50,,1.0W,,,,,
